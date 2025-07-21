@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // ================== WiFi Credentials ==================
-const char* ssid = "MIE";
-const char* password = "LEN9zJ3RKr33dHx";
+const char* ssid = "ssid";
+const char* password = "password";
 
 // ================== Motor Pins ==================
 const int DIR_PIN = 25;
